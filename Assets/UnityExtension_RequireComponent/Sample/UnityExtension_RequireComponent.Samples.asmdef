@@ -1,0 +1,16 @@
+{
+    "name": "UnityExtension_RequireComponent.Samples",
+    "rootNamespace": "",
+    "references": [
+        "GUID:21c5c21c9098c0d44b4644f6f7cc30e2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
