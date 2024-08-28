@@ -1,0 +1,12 @@
+﻿{
+  "name" : "UnityExtension_RequireComponent",
+  "version" : "1.0.0",
+  "displayName": "RequireComponentExtension",
+  "samples": [
+    {
+      "displayName": "HowToUse",
+      "description": "Contains sample MonoBehaviours",
+      "path": "Samples~"
+    }
+  ]
+}
